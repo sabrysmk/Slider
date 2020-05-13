@@ -4,8 +4,7 @@ import PackageDescription
 let package = Package(
     name: "Slider",
     platforms: [
-        .iOS(.v9),
-        .tvOS(.v9)
+        .iOS(.v12),
     ],
     products: [
         .library(name: "Slider", targets: ["Slider"]),
