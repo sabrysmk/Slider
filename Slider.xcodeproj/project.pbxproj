@@ -54,6 +54,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1F6FBB3D246C64CD001247E7 /* Slider copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Slider copy-Info.plist"; path = "/Users/sabry/Desktop/Slider/Slider copy-Info.plist"; sourceTree = "<absolute>"; };
 		4B2EB6C223C1E11F00FB91AD /* Slider.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Slider.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B2EB6C523C1E11F00FB91AD /* Slider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Slider.h; sourceTree = "<group>"; };
 		4B2EB6C623C1E11F00FB91AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -104,6 +105,7 @@
 				4B2EB6E323C1E5AA00FB91AD /* Slider_Example */,
 				4B2EB6C323C1E11F00FB91AD /* Products */,
 				4B2EB6F823C1E85E00FB91AD /* Frameworks */,
+				1F6FBB3D246C64CD001247E7 /* Slider copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
